@@ -12,7 +12,7 @@ This repository contains the simulation input files used in the study:
 
 #### Repository Contents 
 - Base_case.dat: Base-case simulation model
-- Case_21.dat: Case 21 in the manuscipt, with the highest recovery factor among the investigated scenarios
+- Case_24.dat: Case 24 in the manuscipt, with the highest hydrogen recovery factor among the investigated scenarios
 - Include files.zip: Required include files that define the reservoir structure
 
 #### Instructions 
