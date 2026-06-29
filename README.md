@@ -7,8 +7,8 @@ This repository contains the simulation input files used in the study:
 #### DOI: 
 
 #### Software
-- Simulator: CMG-GEM 2024.10
-- EOS: Peng-Robinson Equation of State
+- Reservoir Simulator: CMG-GEM 2024.10
+- Equation of State (EOS): Peng-Robinson Equation of State (PR-EOS)
 
 #### Repository Contents 
 - Base_case.dat: Base-case simulation model
