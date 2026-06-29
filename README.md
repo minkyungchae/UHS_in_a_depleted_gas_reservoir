@@ -2,12 +2,12 @@
 
 This repository contains the simulation input files used in the study:
 
-#### Title: Quantifying Operational Controls on Hydrogen Recovery Factor in Depleted Gas Reservoir for Underground Hydrogen Storage
+#### Title: Impacts of Operational Controls on Hydrogen Recovery Factor in Depleted Gas Reservoir for Underground Hydrogen Storage
 #### Authors: Minkyung Chae, Tea-woo Kim, Suryeom Jo, Hung Vo Thanh, and Baehyun Min
 #### DOI: 
 
 #### Software
-- Simulator: CMG-GEM 2924.10
+- Simulator: CMG-GEM 2024.10
 - EOS: Peng-Robinson Equation of State
 
 #### Repository Contents 
